@@ -1,0 +1,10 @@
+.titulo {
+    font-weight: bold;
+    color: gold;
+}
+
+.imagem{
+    width: 100rem;
+    height: 50rem;
+    margin: 1rem;
+}

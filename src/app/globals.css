@@ -62,7 +62,7 @@ h1 {
   width: 100%;
   max-width: 144rem;
   padding: 2rem;
-  border: 0.3rem solid gold;
+  border: 0.3rem solid rgb(211, 5, 5);
 }
 
 @mediascreen and (max-width: 720px){
